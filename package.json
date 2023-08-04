@@ -1,7 +1,7 @@
 {
-    "name": "MiraiBypassD-Jukie",
-    "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+    "name": "Ngo Phuoc Sang",
+    "version": "2.0.0",
+    "description": "Bot Được Vận hành Bởi Ngo Phuoc Sang.",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
